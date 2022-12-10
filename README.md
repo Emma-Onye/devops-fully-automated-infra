@@ -30,7 +30,7 @@ Fully automated and secured Terraform infra pipeline
     - Copy the Path from the Jenkins UI to get the Administrator Password
         - Run: `sudo cat /var/lib/jenkins/secrets/initialAdminPassword`
         - Copy the password and login to Jenkins
-    - Plugins: Choose Install Suggested Plugings 
+    - Plugins: Choose Install Suggested Plugins 
     - Provide 
         - Username: **admin**
         - Password: **admin**
@@ -41,7 +41,7 @@ Fully automated and secured Terraform infra pipeline
     - Click on "Manage Jenkins"
     - Click on "Plugin Manager"
     - Click "Available"
-    - Search and Install the following Plugings "Install Without Restart"        
+    - Search and Install the following Plugins "Install Without Restart"        
         - **Slack Notification**
 
 
