@@ -1,3 +1,5 @@
+# Creating EC2 instance with its module
+
 variable "name" {
   type        = string
   description = "name tag value"
