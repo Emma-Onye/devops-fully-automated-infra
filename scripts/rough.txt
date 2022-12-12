@@ -1,0 +1,10 @@
+On Jenkins UI
+Configure --> General
+
+Github project --> https://github.com/Emma-Onye/devops-fully-automated-infra.git
+
+Build triggers --> GitHub hook trigger for GITScm polling
+
+
+To destroy resources created 
+terraform destroy /var/lib/jenkins/workspace/app-infra-pipeline
