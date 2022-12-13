@@ -3,6 +3,8 @@ Fully automated and secured Terraform infra pipeline
 
 Github-Jenkins Webhook configuration update
 
+Update to Jenkinsfile
+
 ## CICD Infra setup
 1) ###### GitHub setup
     Import GitHub Repository by using the existing repo "devops-fully-automated-infra" (https://github.com/Emma-Onye/devops-fully-automated-infra)     
